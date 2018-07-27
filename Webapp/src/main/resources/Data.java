@@ -6,7 +6,7 @@ private String value;
 public Data(Integer id,String value){
 	this.id = id;
 	this.value = value;
-	
+	console.log("test new branch");	
 }
 public Integer getId(){
 	return id;
